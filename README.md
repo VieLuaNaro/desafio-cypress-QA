@@ -4,14 +4,15 @@ Este projeto contém testes automatizados para validação do fluxo de login do 
 
 ## Dependências e Ferramentas Necessárias
 
-- **Node.js**: Ambiente de execução para JavaScript no lado do servidor (recomendado: versão 14 ou superior).
+- **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
+  - Versão utilizada: 22.17.0
 - **npm**: Gerenciador de pacotes do Node.js.
   - Versão utilizada: 10.9.2
 - **Cypress**: Framework de testes end-to-end para aplicações web.
   - Versão utilizada: 14.5.1
 - **Mocha**: Framework de testes JavaScript utilizado internamente pelo Cypress para estruturação dos testes.
   - Versão utilizada: 11.7.1
-- **cypress-mochawesome-reporter**: Gera relatórios de testes em formato HTML com evidências visuais (screenshots).
+- **cypress-mochawesome-reporter**: Gera relatórios de testes em formato HTML com evidências visuais.
   - Versão utilizada: ^4.0.0
 
 ## Estrutura dos Arquivos do Projeto
