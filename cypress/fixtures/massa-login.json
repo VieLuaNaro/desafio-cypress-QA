@@ -1,0 +1,9 @@
+{
+  "username": "teste-bn",
+  "password": "testebn12345",
+  "invalid_username": "usuario-invalido",
+  "invalid_password": "senha-invalida",
+  "senha_em_branco": "",
+  "msg_sucesso": "Welcome teste-bn !",
+  "msg_erro": "Erro"
+}

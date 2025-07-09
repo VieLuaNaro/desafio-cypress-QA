@@ -8,5 +8,6 @@ Cypress.Commands.add('login', (username, password) => {
     if (typeof password === 'string' && password.length > 0) {
         cy.get('#password').type(password);
     }
+    cy.screenshot('login/page')
     cy.get('.woocommerce-form > .button').click()
 });
