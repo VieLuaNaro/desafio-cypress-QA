@@ -1,0 +1,18 @@
+{
+  "name": "desafio-api-qa",
+  "version": "1.0.0",
+  "description": "Testes automatizados da aplicação lojaebac.ebaconline.art.br",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Luana Carneiro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "14.5.1",
+    "cypress-mochawesome-reporter": "^4.0.0",
+    "cypress-multi-reporters": "^2.0.5"
+  }
+}
