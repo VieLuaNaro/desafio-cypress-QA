@@ -13,7 +13,7 @@ Este projeto contém testes automatizados para validação do fluxo de login do 
 - **Mocha**: Framework de testes JavaScript utilizado internamente pelo Cypress para estruturação dos testes.
   - Versão utilizada: 11.7.1
 - **cypress-mochawesome-reporter**: Gera relatórios de testes em formato HTML com evidências visuais.
-  - Versão utilizada: ^4.0.0
+  - Versão utilizada: 4.0.0
 
 ## Estrutura dos Arquivos do Projeto
 
@@ -27,8 +27,6 @@ Abaixo estão descritos os principais arquivos e pastas do projeto e suas finali
 - **cypress/screenshots/**: Pasta onde são salvas automaticamente as evidências visuais (prints) dos testes executados.
 - **cypress.config.js**: Arquivo de configuração principal do Cypress, onde são definidos reporter, opções de execução e integração de plugins.
 - **package.json**: Arquivo de configuração do projeto Node.js, contendo as dependências, scripts e metadados do projeto.
-
-Esses arquivos e pastas garantem a organização, manutenção e execução eficiente dos testes automatizados do projeto.
 
 ### Instalação das Dependências
 
