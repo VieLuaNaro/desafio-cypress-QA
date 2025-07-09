@@ -1,6 +1,6 @@
 # Testes Automatizados de Login com Cypress
 
-Este projeto contém testes automatizados para validação do fluxo de login do sistema lojaebac.ebaconline.art.br um, utilizando o framework Cypress.
+Este projeto contém testes automatizados para validação do fluxo de login do sistema lojaebac.ebaconline.art.br, utilizando o framework Cypress.
 
 ## Dependências e Ferramentas Necessárias
 
